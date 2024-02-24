@@ -22,3 +22,18 @@ Compile the source code using a C++ compiler. For example, using g++:
 
 ```bash
 g++ main.cpp -o chess_engine
+```
+
+This will create an executable file named `chess_engine` in the current directory.
+
+## Usage
+Run the compiled executable to initialize the chess engine:
+    
+    ```bash
+    ./chess_engine
+    ```
+
+## To Do
+- Make it a complete chess game with user input.
+- Implement more advanced chess rules and features.
+- Add support for castling, en passant, and pawn promotion.
