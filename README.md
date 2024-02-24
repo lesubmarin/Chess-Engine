@@ -29,9 +29,7 @@ This will create an executable file named `chess_engine` in the current director
 ## Usage
 Run the compiled executable to initialize the chess engine:
     
-    ```bash
     ./chess_engine
-    ```
 
 ## To Do
 - Make it a complete chess game with user input.
